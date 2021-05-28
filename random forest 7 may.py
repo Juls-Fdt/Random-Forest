@@ -8,7 +8,7 @@ Hello Jenna
 #PACKAGE AND DATA LOAD#
 
 
-# Load libraries
+# Load libraries, please
 import matplotlib
 import matplotlib.pyplot as plt
 import pandas as pd
